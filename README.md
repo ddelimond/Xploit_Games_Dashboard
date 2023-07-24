@@ -4,7 +4,7 @@
 
 
 <h1>Link</h1>
-<a href="">Visit Dashboard Here!</a>
+<a href="https://ddelimond.github.io/Xploit_Games_Dashboard/">Visit Dashboard Here!</a>
 
 <h1>Features</h1>
 The landing page uses a mixture of flexbox and grid for its layout. 
